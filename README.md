@@ -24,4 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
 </div>
 
+![image](https://github.com/RioIglesias/weather-app/assets/147328467/2a1d6828-e63d-4dc4-8acb-bc5c3c9fc9df)
+![image](https://github.com/RioIglesias/weather-app/assets/147328467/3d78b3d3-c50c-4df1-a101-0e91e0fc7281)
+
+
 ###
