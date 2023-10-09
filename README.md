@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">About this project</p>
-
-###
-
 <h2 align="left">About this project</h2>
 
 ###
